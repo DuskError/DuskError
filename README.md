@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuskError
-- 👀 I’m interested in creating increamental games that cn be fun for all ages
+- 👀 I’m interested in creating increamental games that can be fun for all ages
 - 🌱 I’m currently learning nothing. literally nothing, someone teach me how to code C# please
 - 📫 How to reach me: DuskError#2327
 
